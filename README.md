@@ -7,8 +7,10 @@ This project utilized Binary classification and two different models for compari
 
 # Viewing the project 
 This project was done in Python notebook and can be viewed alternatively in Jupyter's nbviewer for the best results. 
+
 [Link to the project's nbviewer](https://nbviewer.org/github/KyleNThao/Youtube_BiClassification/blob/main/YouTube_Trending_Binary_Classification.ipynb)
 
 # Dataset
 While this project only utilized the U.S. dataset of trending videos, the full set gathered by the user Mitchell J., can be found online and downloaded here:
+
 [Trending Youtube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new)
