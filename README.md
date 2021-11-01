@@ -3,7 +3,7 @@ Using a dataset obtained from [Kaggle](https://www.kaggle.com), this project att
 Data is trimmed and the more common and unnecessary words are weeded out for vectorization.
 Words that were weeded out including common english words like "to" and "a" as well as words like "youtube.com", "instagram", and "patreon" that provided no meaningful information to the categorical genres.
 
-This project utilized a Fully Connected Neural Network and a Convultion Neural Network to compare two different models on a dataset as well as Linear Regression for evaluation. 
+This project utilized Binary classification and two different models for comparison, a Fully Connected Neural Network and a Convultion Neural Network. 
 
 # Viewing the project 
 This project was done in Python notebook and can be viewed alternatively in Jupyter's nbviewer for the best results. 
