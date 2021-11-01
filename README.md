@@ -1,5 +1,5 @@
 # About
-Using a dataset obtained from [Kaggle](https://www.kaggle.com), this project attempts to identify different generes of Youtube videos by analyzing trending video's tags, descriptions, and titles.
+Using a dataset obtained from [Kaggle](https://www.kaggle.com), this project attempts to identify different generes of videos by analyzing trending U.S. Youtube video's tags, descriptions, and titles.
 Data is trimmed and the more common and unnecessary words are weeded out, which are then thrown into a bag of words for vectorization.
 Words that were weeded out including common english words like "to" and "a" as well as words like "youtube.com", "instagram", and "patreon" that provided no meaningful information to the categorical genres.
 
@@ -10,5 +10,5 @@ This project was done in Python notebook and can be viewed alternatively in Jupy
 [Link to the project's nbviewer](https://nbviewer.org/github/KyleNThao/Youtube_BiClassification/blob/main/YouTube_Trending_Binary_Classification.ipynb)
 
 # Dataset
-This project's data set was pulled from an online dataset gathered by the user Mitchell J., which could be found and downloaded here:
+While this project only utilized the U.S. dataset of trending videos, the full set gathered by the user Mitchell J., can be found online and downloaded here:
 [Trending Youtube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new)
