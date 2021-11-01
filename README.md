@@ -1,6 +1,6 @@
 # About
 Using a dataset obtained from [Kaggle](https://www.kaggle.com), this project attempts to identify different generes of videos by analyzing trending U.S. Youtube video's tags, descriptions, and titles.
-Data is trimmed and the more common and unnecessary words are weeded out, which are then thrown into a bag of words for vectorization.
+Data is trimmed and the more common and unnecessary words are weeded out for vectorization.
 Words that were weeded out including common english words like "to" and "a" as well as words like "youtube.com", "instagram", and "patreon" that provided no meaningful information to the categorical genres.
 
 This project utilized a Fully Connected Neural Network and a Convultion Neural Network to compare two different models on a dataset as well as Linear Regression for evaluation. 
