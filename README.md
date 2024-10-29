@@ -14,3 +14,6 @@ This project was done in Python notebook and can be viewed alternatively in Jupy
 While this project only utilized the U.S. dataset of trending videos, the full set gathered by the user Mitchell J., can be found online and downloaded here:
 
 [Trending Youtube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new)
+
+# Final report
+Documentation and presentations folder contains the final report with the hypothesis and conclusion to the project. I have also included the PowerPoint presentation used. 
